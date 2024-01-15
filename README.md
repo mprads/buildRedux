@@ -1,0 +1,2 @@
+# buildRedux
+writing basic redux
